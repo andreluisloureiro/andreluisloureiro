@@ -1,6 +1,6 @@
 
 - Hi! My name is André 😁
-- Currently studying JavaScript and CSS ✏
+- Currently learning JavaScript and CSS ✏
 - My next goal is to learn how to use frameworks (probably Angular) 📈
 
 <div style="display: inline_block;margin: 20;" margin="20"><br>
