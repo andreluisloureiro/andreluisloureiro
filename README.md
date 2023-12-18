@@ -1,7 +1,7 @@
 
-- Hi! My name is André 😁
-- Currently learning JavaScript and CSS ✏
-- My next goal is to learn how to use frameworks (probably Angular) 📈
+- Hi!
+- Currently improving my JavaScript and CSS ✏
+- My next goal is to learn how to use frameworks 📈
 
 <div style="display: inline_block;margin: 20;" margin="20"><br>
   <img align="center" alt="Andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
